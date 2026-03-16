@@ -29,8 +29,9 @@ is not prohibited eventhough a merge is unlikely.
 - Start location: Slums
 - Start Time: 2099
 - **Blurb:**
-  Ava/Ravion grows up in a cyberpunk slum. In the eraly game, Ava/Ravion's friends and parents are killed by some sort of gang.
-  <marquee>niggas</marquee>
+  Ava/Ravion grows up in a cyberpunk slum. In the eraly game, Ava/Ravion's friends and parents are killed by some sort of        gang/Bounty Hunters. The protagonist seeks retribution, so he/she becomes a bounty hunter him/herself to gain money and        power to eliminate the gang that killed their parents. The player can choose between staying on the bloody bounty hunter       path or finally settle down somewhere. In both options a plottwist, which is still in preparation, will occur.
+- Through the mainstory, the player will be able to participate in minigames and optional quests.
+  
 ### Screenshots
 - Viewing Screenshots is not possible yet
 ---
