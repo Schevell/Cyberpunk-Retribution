@@ -11,7 +11,7 @@
 ## Controls
 - Move Around: `W`, `A`, `S`, `D`
 - Interact: `Right Click`
-(Controlls for minigames will be added soon)
+(Controls for minigames will be added soon)
 ## How to test?
 - Testing is not possible yet
 
@@ -29,8 +29,8 @@ is not prohibited eventhough a merge is unlikely.
 - Start location: Slums
 - Start Time: 2099
 - **Blurb:**
-  Ava/Ravion grows up in a cyberpunk slum. In the early game, Ava/Ravion's friends and parents are killed by some sort of        gang/Bounty Hunters. The protagonist seeks retribution, so he/she becomes a bounty hunter him/herself to gain money and        power to eliminate the gang that killed their parents. The player can choose between staying on the bloody bounty hunter       path or finally settle down somewhere. In both options a plottwist, which is still in preparation, will occur.
-- Through the mainstory, the player will be able to participate in minigames and optional quests.
+  Ava/Ravion grows up in a cyberpunk slum. In the early game, Ava/Ravion's friends and parents are killed by some sort of        gang/bounty hunters. The protagonist seeks retribution, so he/she becomes a bounty hunter him/herself to gain money and        power to eliminate the gang that killed their parents. The player can choose between staying on the bloody bounty hunter       path or finally settle down somewhere. In both options a plot twist, which is still in preparation, will occur.
+- Throughout the mainstory, the player will be able to participate in minigames and optional quests.
   
 ### Screenshots
 - Viewing Screenshots is not possible yet
