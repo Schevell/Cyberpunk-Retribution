@@ -1,10 +1,10 @@
 # Cyberpunk: Retribution
-### Latest Version: 0.0.0 (Alpha)
+### Latest Version: 0.0.1 (Alpha)
 ## About
-**Cyberpunk: Retribution** is a singleplayer 2D scroller.
+**Cyberpunk: Retribution** is a singleplayer top-down 2D scroller.
 
 ## Project Status
-**Cyberpunk: Retribution**'s Development is planned, things like assets are carefully being prepared.
+**Cyberpunk: Retribution**'s Development just started.
 
 ## Gameplay
 **Cyberpunk: Retribution's**'s gameplay focuses on character development and storytelling, while containing action.
