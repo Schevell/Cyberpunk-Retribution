@@ -10,7 +10,8 @@
 **Cyberpunk: Retribution's**'s gameplay focuses on character development and storytelling, while containing action.
 ## Controls
 - Move Around: `W`, `A`, `S`, `D`
-- Interact: `Right Click`
+- Dash:  `Space`
+- Interact: `E`
 (Controls for minigames will be added soon)
 ## How to test?
 - Testing is not possible yet
