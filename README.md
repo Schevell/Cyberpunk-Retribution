@@ -12,6 +12,7 @@
 - Move Around: `W`, `A`, `S`, `D`
 - Dash:  `Space`
 - Interact: `E`
+- Abilities: `1`, `2`, `3`
 (Controls for minigames will be added soon)
 ## How to test?
 - Testing is not possible yet
