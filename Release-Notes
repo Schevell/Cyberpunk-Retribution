@@ -1,5 +1,6 @@
 Release Notes
 
+0.0.0
 v. 0.0.1
 - added a map
 - added moving around
@@ -30,3 +31,7 @@ v. 0.0.7
 - Removed Cats
 - Removed Masked Companion
 - Modified Porcupine Spritesheet
+
+0.1.0
+v. 0.1.1
+- added Teleporting through Teleport Station and Map
