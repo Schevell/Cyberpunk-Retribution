@@ -4,7 +4,7 @@
 **Cyberpunk: Retribution** is a 2D singleplayer top-down scroller.
 
 ## Project Status
-**Cyberpunk: Retribution**'s Development just started.
+**Cyberpunk: Retribution** is in early Development.
 
 ## Gameplay
 **Cyberpunk: Retribution's**'s gameplay focuses on character development and storytelling, while containing action.
