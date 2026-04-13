@@ -13,7 +13,8 @@
 - Dash/Supder Dash:  `Space`
 - Interact: `E`
 - Abilities: `1`, `2`, `3`
-- Shoot: Left Click
+- Use Inventory: `Left Click on slot`
+- Shoot: `Left Click`
 (Controls for minigames will be added soon)
 ## How to test?
 - Testing is not possible yet
