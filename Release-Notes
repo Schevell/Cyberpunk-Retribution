@@ -47,3 +47,13 @@ v. 0.1.4
 - added "Storage" ability 
 - added an inventory
 - revised item holding system
+
+0.2.0
+v. 0.2.1
+- added Home Screen
+
+v. 0.2.2
+- added Glitch effect to the title
+- added Neon lights to the title
+- added grid to the home screen
+- replaced Rain effects with Matrix effects
