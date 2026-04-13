@@ -12,7 +12,7 @@
 - Move Around: `W`, `A`, `S`, `D`
 - Dash/Supder Dash:  `Space`
 - Interact: `E`
-- Abilities: `1`, `2`, `3`
+- Use Abilities: `1`, `2`, `3`
 - Use Inventory: `Left Click on slot`
 - Shoot: `Left Click`
 (Controls for minigames will be added soon)
