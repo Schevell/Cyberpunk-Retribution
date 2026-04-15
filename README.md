@@ -6,6 +6,8 @@
 ## Project Status
 **Cyberpunk: Retribution** is in early Development.
 
+[Devlogs](https://github.com/Schevell/Cyberpunk-Retribution/blob/main/Release-Notes)
+
 ## Gameplay
 **Cyberpunk: Retribution's**'s gameplay focuses on character development and storytelling, while containing action.
 ## Controls
