@@ -57,3 +57,9 @@ v. 0.2.2
 - added Neon lights to the title
 - added grid to the home screen
 - replaced Rain effects with Matrix effects
+
+v 0.2.3
+- fixed Play Buton
+- added Animations to the main menu buttons
+- removed storage ability
+- Reworked Boss
