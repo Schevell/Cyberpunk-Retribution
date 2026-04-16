@@ -60,6 +60,8 @@ v. 0.2.2
 
 v 0.2.3
 - fixed Play Buton
+- fixed spritesheet animation 
+- fixed inventory
 - added Animations to the main menu buttons
 - removed storage ability
 - Reworked Boss
