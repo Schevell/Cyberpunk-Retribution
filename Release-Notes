@@ -70,3 +70,9 @@ v. 0.2.4
 - added damage dealing
 - added spear
 - fixed inventory
+
+v. 0.2.5
+- increased gun cooldown
+- added damage taking animation to boss
+- made boss unkillable before interaction
+- added [E] to the boss
