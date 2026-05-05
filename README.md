@@ -1,5 +1,5 @@
 # Cyberpunk: Retribution
-### Latest Version: 0.3.1 (Alpha)
+### Latest Version: 0.3.2 (Alpha)
 ## About
 **Cyberpunk: Retribution** is a 2D singleplayer top-down scroller.
 
